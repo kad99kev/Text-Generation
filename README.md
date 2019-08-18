@@ -1,5 +1,8 @@
 # Text-Generation
-Generating text using GRUs. Model trained on The Old Testament of the King James Version of the Bible
+Generating text using GRUs. Model trained on The Old Testament of the King James Version of the Bible.
+
+Clone the library and execute the run.py for a quick demo.
+
 <h3>References</h3>
 
 [Tensorflow example](https://www.tensorflow.org/tutorials/sequences/text_generation)
